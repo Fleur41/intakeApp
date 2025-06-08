@@ -23,7 +23,7 @@ export default function IntakeForm({ adminUsername, adminPassword, onBack }) {
     e.preventDefault();
     setError("");
     try {
-      const res = await fetch("http://localhost:5000/api/submit", {
+      const res = await fetch("http://localhost:5001/api/submit", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
