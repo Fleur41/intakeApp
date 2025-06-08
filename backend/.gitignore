@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Flask cache and config
+instance/
+*.pyc
+
+# Pytest / coverage
+.coverage
+.tox/
+.nox/
+.cache/
+.pytest_cache/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and other
+*.log
+*.db
+*.sqlite3
+
+# Mac/Linux/Windows system files
+.DS_Store
+Thumbs.db

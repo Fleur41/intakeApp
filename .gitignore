@@ -1,0 +1,21 @@
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Python
+*.pyc
+__pycache__/
+
+# Node
+node_modules/
+
+# Virtual environments
+venv/
+.venv/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
