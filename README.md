@@ -9,7 +9,7 @@ A full-stack application with a Flask backend, a modern frontend (React/Vue/etc.
 ```
 intakeApp/
 ├── backend/      # Flask API (Python)
-├── frontend/     # Frontend app (React, Vue, etc.)
+├── frontend/     # Frontend app (React)
 ├── docker-compose.yml
 └── README.md
 ```
