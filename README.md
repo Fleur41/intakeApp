@@ -28,7 +28,7 @@ intakeApp/
 ### 1. Clone the repository
 
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/Fleur41/intakeApp.git
 cd intakeApp
 ```
 
